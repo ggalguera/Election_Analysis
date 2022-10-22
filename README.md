@@ -1,5 +1,5 @@
 # Election_Analysis
-Lessons 1 &amp; 2 for Python
+Module 3: PyPoll with Python Challenge
 
 ## Overview of Election Audit
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
