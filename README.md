@@ -29,6 +29,8 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
 - The winner of the election was:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-    
+
+![Command Line Screen Shot](https://github.com/ggalguera/Election_Analysis/blob/main/Election_Results_picture.png)
+
 ## Election-Audit Summary
 This script can be used to analyze any set of data from any election as long as we keep the same column structure, we can add an input on the script where we can define the name of the file with the raw data that we want to use and another input to define the election results file name, in this way the scrip can be used for multiple elections without affecting previous results. We also can add the state in a column 4 of the data, by doing this we have the option to create an external for loop to get reports by state or just and if condition to filter the desired state for the analysis.
